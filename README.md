@@ -13,7 +13,12 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
-* 9.5. — Materiaali ja harjoitukset julkaistaan tänne ensi viikon alussa.
+* 12.5. — Ensimmäisen viikon tehtävät julkaistu. Harjoitukset alkavat jo ensi viikolla!
+
+## Sisältö
+
+* [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
+* [Arvostelu](arvostelu.md)
 
 ## Yleistä
 
@@ -32,7 +37,7 @@ Kaksi ryhmää **tiistaisin klo 12–14**. Tehtävät on tarkoitus ratkaista enn
 
 ### 2. Suunnitteluharjoitukset
 
-Kaksi ryhmää **torstaisin klo 12–14**. **Huom!** Helatorstain takia toisella viikolla harjoitus **keskiviikkona 28.5**. Suunnitteluharjoituksissa tehdään tietokantasuunnitelmaa ryhmissä pala kerrallaan viikon teeman mukaan. Ryhmät myös esittelevät tuotoksiaan. Jokainen palauttaa kurssin lopuksi itsenäisesti tietokantasuunnitelman joka pohjautuu ryhmän tuotoksiin.
+Kaksi ryhmää **torstaisin klo 12–14**. **Huom!** Helatorstain takia toisella viikolla harjoitus **keskiviikkona 28.5**. Suunnitteluharjoituksissa tehdään tietokantasuunnitelmaa ryhmissä pala kerrallaan viikon teeman mukaan. Ryhmät myös esittelevät tuotoksiaan. Jokainen palauttaa kurssin lopuksi itsenäisesti tietokantasuunnitelman joka pohjautuu ryhmän tuotoksiin. Suunnitteluharjoituksissa on hyvä olla tietokoneet mukana, mikäli se on mahdollista.
 
 * B222, Heikki Haapala
 * C222, Kasper Hirvikoski
