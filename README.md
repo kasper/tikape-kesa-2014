@@ -44,7 +44,11 @@ Kaksi ryhmää **torstaisin klo 12–14**. **Huom!** Helatorstain takia toisella
 
 ### 3. SQL-paja
 
-SQL-Trainerin tehtäviin on mahdollista saada apua SQL-pajasta, joka järjestetään Ohjelmoinnin perusteiden -pajan yhteydessä. Pajan aikataulu julkaistaan myöhemmin.
+SQL-Trainerin tehtäviin on mahdollista saada apua SQL-pajasta, joka järjestetään Ohjelmoinnin perusteiden -pajan yhteydessä. **Paja pidetään salissa BK107.**
+
+* tiistaisin 14–18
+* torstaisin 14–18
+* perjantaisin 14–16
 
 ### 4. Koe
 
