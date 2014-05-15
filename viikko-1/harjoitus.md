@@ -5,7 +5,7 @@ Harjoitukset on tarkoitus tehdä (tai rehellisesti yrittää) ennen tilaisuutta.
 
 ## Tieto ja tietokannat
 
-1. Kerro mitä käsitteet *tietokanta* ja *tieto* tarkoittavat. Miksi kaikkea tietoa ei kannata tallentaa yksittäisiin tiedostoihin? Tieto voidaan jakaa kolmeen tasoon: käsitetaso, rakennetaso ja talletustaso. Mikä näiden tasojen rooli on?
+1. Kerro mitä käsitteet *tietokanta* (database) ja *tieto* (data) tarkoittavat. Miksi kaikkea tietoa ei kannata tallentaa yksittäisiin tiedostoihin? Tieto voidaan jakaa kolmeen tasoon: käsitetaso, rakennetaso ja talletustaso. Mikä näiden tasojen rooli on?
 
 2. Mitä rakenteiset JSON- ja XML-tietoformaatit ovat ja miten ne sisältävät tietoa? Selvitä mitä XML-skeema tarkoittaa.
 
