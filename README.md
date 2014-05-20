@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 20.5. — Toisen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös ensimmäisen viikon malliratkaisut.
 * 19.5. — Muista ilmoittautua kokeeseen!
 * 12.5. — Ensimmäisen viikon tehtävät julkaistu. Harjoitukset alkavat jo ensi viikolla!
 
