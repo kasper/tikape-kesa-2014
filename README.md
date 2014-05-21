@@ -9,10 +9,11 @@ Avoin yliopisto — A581328 (4 op)
 * Kasper Hirvikoski (kasper.hirvikoski@cs.helsinki.fi, IRCNet: Kasper)
 * Heikki Haapala (heikki.haapala@helsinki.fi, IRCNet: Absor)
 
-**IRCNet:** #tikape-kesa
+**IRCNet:** #tikape-kesa ([IRC-ohjeet](irc.md))
 
 ## Ajankohtaista
 
+* 21.5. — Lisätty [IRC-ohjeet](irc.md).
 * 20.5. — Toisen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös ensimmäisen viikon malliratkaisut.
 * 19.5. — Muista ilmoittautua kokeeseen!
 * 12.5. — Ensimmäisen viikon tehtävät julkaistu. Harjoitukset alkavat jo ensi viikolla!
