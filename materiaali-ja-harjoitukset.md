@@ -14,7 +14,7 @@ Tietokantaoperaatioita harjoitellaan automaattisesti tarkistettavien tehtävien 
 
 Tehtävät jakautuvat kuuteen erään. Tehtävät tulee tehdä määräaikoihin mennessä:
 
-* Erä 1 ja 2 — **25.5. klo 23.59** (9 tehtävää, K1-K9) (Malliratkaisut)
+* Erä 1 ja 2 — **25.5. klo 23.59** (9 tehtävää, K1-K9) (Malliratkaisut — [Erä 1](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-1-ratkaisut.html) ja [Erä 2](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-2-ratkaisut.html))
 * Erä 3 — **1.6. klo 23.59** (7 tehtävää, K10-K16) (Malliratkaisut)
 * Erä 4 — **8.6. klo 23.59** (7 tehtävää, Y1-Y7) (Malliratkaisut)
 * Erä 5 — **15.6. klo 23.59** (9 tehtävää, Y8-Y16) (Malliratkaisut)
