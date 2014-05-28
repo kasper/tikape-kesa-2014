@@ -26,14 +26,14 @@ Tehtäviin on saatavissa apua SQL-pajasta. Katso pajan [aikataulu](README.md#3-s
 
 * [Viikko 1](viikko-1/harjoitus.md) ([Malliratkaisut](viikko-1/harjoitus-malliratkaisut.md))
 * [Viikko 2](viikko-2/harjoitus.md) ([Malliratkaisut](viikko-2/harjoitus-malliratkaisut.md))
-* Viikko 3 (Malliratkaisut)
+* [Viikko 3](viikko-3/harjoitus.md) (Malliratkaisut)
 * Viikko 4 (Malliratkaisut)
 
 ## 4. Suunnitteluharjoitukset
 
 * [Viikko 1](viikko-1/suunnitteluharjoitus.md)
 * [Viikko 2](viikko-2/suunnitteluharjoitus.md) — **Huom!** Helatorstain takia harjoitus on jo keskiviikkona 28.5.
-* Viikko 3
+* [Viikko 3](viikko-3/suunnitteluharjoitus.md)
 * Viikko 4
 
 ## 5. Tietokantasuunnitelma
