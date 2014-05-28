@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 28.5. — Kolmannen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös toisen viikon malliratkaisut.
 * 26.5. — Harjoitussivulta löytyy SQL-Trainerin kahden ensimmäisen erän malliratkaisut.
 * 21.5. — Lisätty [IRC-ohjeet](irc.md).
 * 20.5. — Toisen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös ensimmäisen viikon malliratkaisut.
