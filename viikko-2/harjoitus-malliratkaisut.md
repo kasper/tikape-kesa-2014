@@ -13,7 +13,7 @@ Harjoitukset on tarkoitus tehdä (tai rehellisesti yrittää) ennen tilaisuutta.
 
 2. **Kartoita [viime viikon](/viikko-1/harjoitus.md) tehtävästä 5 tietokohteet, niiden väliset yhteydet ja osallistumisrajoitteet. Mieti tietokohteille attribuutit ja näille sopivia arvoja. Piirrä UML-luokkakaavio tietokohteista. Sisällytä luokkien attribuutit luokkakaavioon.**
 
-    ![UML](http://yuml.me/071864cd)
+    ![UML](http://yuml.me/3c7f6501)
 
 3. **Selvitä mitä skeema, taulu, sarake ja rivi tarkoittavat tietokannassa.**
 
