@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 29.5. — Julkaistu pisteiden [tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf).
 * 28.5. — Kolmannen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös toisen viikon malliratkaisut.
 * 26.5. — Harjoitussivulta löytyy SQL-Trainerin kahden ensimmäisen erän malliratkaisut.
 * 21.5. — Lisätty [IRC-ohjeet](irc.md).
@@ -24,6 +25,7 @@ Avoin yliopisto — A581328 (4 op)
 
 * [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
 * [Arvostelu](arvostelu.md)
+* [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf)
 
 ## Yleistä
 
