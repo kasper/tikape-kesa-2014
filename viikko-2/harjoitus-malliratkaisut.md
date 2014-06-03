@@ -1,8 +1,6 @@
 Harjoitus 2
 ===========
 
-Harjoitukset on tarkoitus tehdä (tai rehellisesti yrittää) ennen tilaisuutta. Tilaisuudessa jakaudutaan ryhmiin, joissa pohditaan tehtäviä ja lopuksi ryhmät esittelevät ratkaisujaan.
-
 ## Relaatiomalli
 
 1. **Tietokohteisiin liittyy attribuutteja, arvoja ja arvojoukkoja. Mitä nämä tarkoittavat? Anna esimerkki.**
