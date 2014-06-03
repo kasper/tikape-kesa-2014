@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="src/main/java/fi/helsinki/cs/vaestorekisteri/controller/CitizenController.java">
+</file>
+<file name="src/main/java/fi/helsinki/cs/vaestorekisteri/model/Citizen.java">
+</file>
+<file name="src/main/resources/log4j.properties">
+</file>
+</checkstyle>

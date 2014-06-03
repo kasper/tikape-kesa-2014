@@ -26,7 +26,7 @@ Tehtäviin on saatavissa apua SQL-pajasta. Katso pajan [aikataulu](README.md#3-s
 
 * [Viikko 1](viikko-1/harjoitus.md) ([Malliratkaisut](viikko-1/harjoitus-malliratkaisut.md))
 * [Viikko 2](viikko-2/harjoitus.md) ([Malliratkaisut](viikko-2/harjoitus-malliratkaisut.md))
-* [Viikko 3](viikko-3/harjoitus.md) (Malliratkaisut)
+* [Viikko 3](viikko-3/harjoitus.md) ([Malliratkaisut](viikko-3/harjoitus-malliratkaisut.md))
 * Viikko 4 (Malliratkaisut)
 
 ## 4. Suunnitteluharjoitukset
