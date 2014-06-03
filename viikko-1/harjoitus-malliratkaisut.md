@@ -1,3 +1,6 @@
+Harjoitus 1
+===========
+
 1. **Kerro mitä käsitteet *tietokanta* (database) ja *tieto* (data) tarkoittavat. Miksi kaikkea tietoa ei kannata tallentaa yksittäisiin tiedostoihin? Tieto voidaan jakaa kolmeen tasoon: käsitetaso, rakennetaso ja talletustaso. Mikä näiden tasojen rooli on?**
 
   **Tieto**: digitaalisesti tallennettua informaatiota jostakin kohteesta.
