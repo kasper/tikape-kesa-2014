@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 3.6. — Viimeinen paja järjestetään tiistaina 17.6. **Muistakaa [ilmoittautua](http://avoin.helsinki.fi/palvelut/tentit.htm#ilmoittautuminen) kokeeseen viimeistään tämän viikon perjantaina 6.6.!**
 * 3.6. — Viimeisen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös kolmannen viikon malliratkaisut.
 * 29.5. — Julkaistu pisteiden [tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf).
 * 28.5. — Kolmannen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös toisen viikon malliratkaisut.
