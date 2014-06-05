@@ -7,9 +7,9 @@ Kurssin läpipääsyyn vaaditaan vähintään 50% koepisteistä. **Tietokantasuu
 
 * Harjoituksista 8 pistettä (20% tehtävistä 1 piste – 90% 8 pistettä)
 * Suunnitteluharjoituksista 4 pistettä (1 piste/läsnäolokerta)
-* Tietokantasuunnitelmasta 4 pistettä
+* Tietokantasuunnitelmasta 4 pistettä (vähintään 1 piste vaaditaan läpipääsyyn)
 * SQL-Trainer tehtävistä 8 pistettä (20% tehtävistä 1 piste – 90% 8 pistettä)
-* Kokeesta 16 pistettä
+* Kokeesta 16 pistettä (koeleikkuri 8 pistettä)
 * Kokonaisuudessaan kurssista 40 pistettä
 
 ## Arvosanarajat (alustava)
