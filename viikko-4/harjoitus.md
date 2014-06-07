@@ -5,7 +5,7 @@ Harjoitukset on tarkoitus tehdä (tai rehellisesti yrittää) ennen tilaisuutta.
 
 ## Optimointi
 
-1. Selvitä mitä tarkoittavat funktionaalinen riippuvuus, Boyce-Codd analyysi ja -normaalimuoto. Onko alla oleva taulu normaalimuodossa? Mitä funktionaalisia riippuvuuksia siitä löytyy? Mieti ehdotelma miten ongelman voisi ratkaista?
+1. Selvitä mitä tarkoittavat funktionaalinen riippuvuus, Boyce-Codd analyysi ja -normaalimuoto. Onko alla oleva taulu normaalimuodossa? Mitä funktionaalisia riippuvuuksia siitä löytyy? Mieti ehdotelma miten ongelman voisi ratkaista.
 
     | id | nimi      | syntymaaika | osasto_id | osasto_nimi | osasto_sijainti |
     |----|---------- |-------------|-----------|-------------|-----------------|
