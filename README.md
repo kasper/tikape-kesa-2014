@@ -28,13 +28,14 @@ Avoin yliopisto — A581328 (4 op)
 ## Sisältö
 
 * [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
+* [Kokeesta](kokeesta.md)
 * [Arvostelu](arvostelu.md)
 * [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf) (päivitetty 9.6.)
 * [Kurssipalaute](https://ilmo.cs.helsinki.fi/kurssit/servlet/Valinta)
 
 ## Yleistä
 
-[Pääteemat ja oppimistavoitteet](http://www.cs.helsinki.fi/courses/581328/matriisi). Kurssilla tutustutaan tiedon esitysmuotoihin ja tiedon hakuun suurista tietomääristä. Erityisenä painopisteenä ovat relaatiotietokannat, joiden kohdalla perehdytään toisaalta teoreettiseen perustaan ja toisaalta tietokannan käytännön käsittelyyn SQL-kielen avulla. Kurssilla opitaan myös perustiedot relaatiotietokantojen suunnittelusta.
+[Pääteemat ja oppimistavoitteet](http://www.cs.helsinki.fi/courses/581328/matriisi/). Kurssilla tutustutaan tiedon esitysmuotoihin ja tiedon hakuun suurista tietomääristä. Erityisenä painopisteenä ovat relaatiotietokannat, joiden kohdalla perehdytään toisaalta teoreettiseen perustaan ja toisaalta tietokannan käytännön käsittelyyn SQL-kielen avulla. Kurssilla opitaan myös perustiedot relaatiotietokantojen suunnittelusta.
 
 ## Opetus (19.5.–12.6.)
 
