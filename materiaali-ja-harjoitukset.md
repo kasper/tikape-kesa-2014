@@ -16,7 +16,7 @@ Tehtävät jakautuvat kuuteen erään. Tehtävät tulee tehdä määräaikoihin 
 
 * Erä 1 ja 2 — **25.5. klo 23.59** (9 tehtävää, K1-K9) (Malliratkaisut — [Erä 1](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-1-ratkaisut.html) ja [Erä 2](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-2-ratkaisut.html))
 * Erä 3 — **1.6. klo 23.59** (7 tehtävää, K10-K16) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-3-ratkaisut.html))
-* Erä 4 — **8.6. klo 23.59** (7 tehtävää, Y1-Y7) (Malliratkaisut)
+* Erä 4 — **8.6. klo 23.59** (7 tehtävää, Y1-Y7) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-4-ratkaisut.html))
 * Erä 5 — **15.6. klo 23.59** (9 tehtävää, Y8-Y16) (Malliratkaisut)
 * Erä 6 — **22.6. klo 23.59** (8 tehtävää, U1-U8) (Malliratkaisut)
 
@@ -55,7 +55,7 @@ Tietokantasuunnitelma on pakollinen osa kurssin suoritusta. Jokainen palauttaa i
 
 Kaavioiden piirtämiseen:
 
-* Verkossa [Draw.io](http://draw.io), [Gliffy](https://www.gliffy.com/) tai tekstipohjainen [yUML](http://yuml.me) 
+* Verkossa [Draw.io](http://draw.io), [Gliffy](https://www.gliffy.com/) tai tekstipohjainen [yUML](http://yuml.me)
 * Laitoksella on opiskelijalisenssi [MagicDraw-ohjelmistoon](https://www.cs.helsinki.fi/intranet/group/cinco/teaching/md/)
 
 ## 7. Tietokannoista kiinnostuneille

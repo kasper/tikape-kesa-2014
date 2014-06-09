@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 9.6. — SQL-Trainerin neljännen erän mallivastaukset julkaistu.
 * 3.6. — Viimeinen paja järjestetään tiistaina 17.6. **Muistakaa [ilmoittautua](http://avoin.helsinki.fi/palvelut/tentit.htm#ilmoittautuminen) kokeeseen viimeistään tämän viikon perjantaina 6.6.!**
 * 3.6. — Viimeisen viikon tehtävät julkaistu. Harjoitussivuilta löytyy myös kolmannen viikon malliratkaisut.
 * 29.5. — Julkaistu pisteiden [tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf).
