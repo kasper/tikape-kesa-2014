@@ -28,7 +28,7 @@ Avoin yliopisto — A581328 (4 op)
 
 * [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
 * [Arvostelu](arvostelu.md)
-* [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf)
+* [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf) (päivitetty 9.6.)
 
 ## Yleistä
 
