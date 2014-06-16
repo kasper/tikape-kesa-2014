@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 16.6. — Onnea kokeeseen!
 * 10.6. — Viikon neljä malliratkaisut julkaistu.
 * 9.6. — Tietoa [kokeesta](kokeesta.md).
 * 9.6. — Antakaa kurssipalautetta [palautelomakkeen](https://ilmo.cs.helsinki.fi/kurssit/servlet/Valinta) kautta. Palautteen voi myös halutessaan antaa vasta kokeen jälkeen.
