@@ -18,7 +18,7 @@ Tehtävät jakautuvat kuuteen erään. Tehtävät tulee tehdä määräaikoihin 
 * Erä 3 — **1.6. klo 23.59** (7 tehtävää, K10-K16) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-3-ratkaisut.html))
 * Erä 4 — **8.6. klo 23.59** (7 tehtävää, Y1-Y7) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-4-ratkaisut.html))
 * Erä 5 — **15.6. klo 23.59** (9 tehtävää, Y8-Y16) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-5-ratkaisut.html))
-* Erä 6 — **22.6. klo 23.59** (8 tehtävää, U1-U8) (Malliratkaisut)
+* Erä 6 — **22.6. klo 23.59** (8 tehtävää, U1-U8) ([Malliratkaisut](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/sql-trainer/era-6-ratkaisut.html))
 
 Tehtäviin on saatavissa apua SQL-pajasta. Katso pajan [aikataulu](README.md#3-sql-paja).
 
