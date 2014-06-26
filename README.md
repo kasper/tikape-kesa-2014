@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 26.6. — [Koe](kokeet/160614.pdf) on nyt korjattu ja alustavat pisteet löytyvät [pistelistalta](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf). Arvostelusta voit lukea [kokeen arvosteluperusteista](kokeet/160614-arvostelu.md). Tarkistuslistalla on nyt myös SQL-Trainer -tehtävien pisteet. Tietokantasuunnitelmien korjaus on vielä kesken, joten lopullinen arvostelu tulee myöhemmin. Epäselvyyksissä ota yhteyttä sähköpostilla kasper.hirvikoski@cs.helsinki.fi.
 * 23.6. — SQL-Trainerin viimeiset malliratkaisut julkaistu.
 * 16.6. — Onnea kokeeseen!
 * 10.6. — Viikon neljä malliratkaisut julkaistu.
@@ -34,7 +35,7 @@ Avoin yliopisto — A581328 (4 op)
 * [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
 * [Kokeesta](kokeesta.md)
 * [Arvostelu](arvostelu.md)
-* [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf) (päivitetty 9.6.)
+* [Pisteiden tarkistuslista](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf) (päivitetty 26.6.)
 * [Kurssipalaute](https://ilmo.cs.helsinki.fi/kurssit/servlet/Valinta)
 
 ## Yleistä
