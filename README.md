@@ -13,6 +13,7 @@ Avoin yliopisto — A581328 (4 op)
 
 ## Ajankohtaista
 
+* 25.8. — 1. uusintakoe korjattu. Tulokset päivitetty [pistelistalle](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf).
 * 6.7. — Lopullinen [arvostelu](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf). Pistesumma pyöristettiin ylöspäin ja arvosanarajoja laskettiin yhdellä. Tietokantasuunnitelman arvostelusta voit lukea [arvosteluperusteista](suunnitteluharjoitus-malli/arvostelu.md). Arvosanat on lähetetty Avoimeen.
 * 26.6. — [Koe](kokeet/160614.pdf) on nyt korjattu ja alustavat pisteet löytyvät [pistelistalta](http://www.cs.helsinki.fi/u/khirviko/tikape-kesa-2014/tikape-kesa-2014.pdf). Arvostelusta voit lukea [kokeen arvosteluperusteista](kokeet/160614-arvostelu.md). Tarkistuslistalla on nyt myös SQL-Trainer -tehtävien pisteet. Tietokantasuunnitelmien korjaus on vielä kesken, joten lopullinen arvostelu tulee myöhemmin. Epäselvyyksissä ota yhteyttä sähköpostilla kasper.hirvikoski@cs.helsinki.fi.
 * 23.6. — SQL-Trainerin viimeiset malliratkaisut julkaistu.
